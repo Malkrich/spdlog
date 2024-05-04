@@ -96,3 +96,7 @@ cmake-build-*/
 /.vs
 /out/build
 /CMakeSettings.json
+
+## build directories
+bin/**
+bin-int/**
